@@ -1,1 +1,3 @@
-# como-comprar-qtum-qtum
+[**Cómo comprar Qtum (QTUM)**](https://topcryptoguide.com/como-comprar-qtum-qtum/)
+
+Este artículo explica **cómo comprar Qtum (QTUM)**, la criptomoneda nativa de la blockchain Qtum, que combina características de **Bitcoin y Ethereum** para ofrecer contratos inteligentes con seguridad y compatibilidad ampliada. Para adquirir QTUM normalmente debes **crear una cuenta en un exchange confiable donde esté listado** (como Binance, KuCoin o Gate.io), **verificar tu identidad** si corresponde y **depositar fondos** mediante transferencia bancaria, tarjeta o stablecoins como USDT antes de ejecutar la compra en el mercado spot. Algunos exchanges también permiten **comprar QTUM con tarjeta de crédito/débito** u otros métodos según disponibilidad. Tras la compra, se recomienda **mover tus tokens a un wallet seguro** donde controles tus claves privadas para proteger tus activos digitales.
